@@ -1,5 +1,7 @@
 # Ulrike Niemann
 
+github: [https://github.com/ulrikeniemann/](https://github.com/ulrikeniemann/)
+
 Kontakt: [ulrike.niemann@e-market-research.de](ulrike.niemann@e-market-research.de)
 
 
