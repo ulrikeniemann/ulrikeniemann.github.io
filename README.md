@@ -1,8 +1,8 @@
-Ulrike Niemann
+# Ulrike Niemann
 
-ulrike.niemann@e-market-research.de
+Kontakt: ulrike.niemann@e-market-research.de
 
-
+## public
 
 
 https://ulrikeniemann.github.io/r_mini_example/
