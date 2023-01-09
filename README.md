@@ -1,15 +1,15 @@
 # Ulrike Niemann
 
-Kontakt: ulrike.niemann@e-market-research.de
-
-test - test - test 
+Kontakt: [ulrike.niemann@e-market-research.de](ulrike.niemann@e-market-research.de)
 
 
+## public repositories
 
-## public
 
+[r_mini_example](https://ulrikeniemann.github.io/r_mini_example/)
 
-https://ulrikeniemann.github.io/r_mini_example/
+[r_flexdashboard_example](https://ulrikeniemann.github.io/r_flexdashboard_example/)
 
-https://ulrikeniemann.github.io/r_flexdashboard_example/
+## public shiny app
 
+[ESUexplorer](https://ulrikeniemann.shinyapps.io/esuexplorer/)
