@@ -12,6 +12,8 @@ demos - tests
 
 [r_flexdashboard_example](https://ulrikeniemann.github.io/r_flexdashboard_example/)
 
+[r_quarto_tabs_example](https://ulrikeniemann.github.io/r_quarto_tabs_example/)
+
 ## public shiny app
 
 [ESUexplorer](https://ulrikeniemann.shinyapps.io/esuexplorer/)
