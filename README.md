@@ -2,7 +2,6 @@
 
 [https://github.com/ulrikeniemann/](https://github.com/ulrikeniemann/)
 
-ulrikeniemann.github.io
 
 demos - tests
 
