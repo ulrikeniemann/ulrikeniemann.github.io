@@ -14,6 +14,8 @@ demos - tests
 
 [r_quarto_tabs_example](https://ulrikeniemann.github.io/r_quarto_tabs_example/)
 
+[r_tables_to_excel_tests](https://github.com/ulrikeniemann/r_tables_to_excel_tests)
+
 ## public shiny app
 
 [ESUexplorer](https://ulrikeniemann.shinyapps.io/esuexplorer/)
