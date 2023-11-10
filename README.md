@@ -1,6 +1,6 @@
 # Ulrike Niemann
 
-<a href="http://ulrikeniemann.github.io/" target="_blank">github.com/ulrikeniemann/</a>
+<a href="http://github.com/ulrikeniemann" target="_blank">github.com/ulrikeniemann/</a>
 
 [ulrikeniemann.github.io](https://ulrikeniemann.github.io/)
 
