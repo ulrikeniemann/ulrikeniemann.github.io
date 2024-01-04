@@ -19,7 +19,7 @@ lang: de
 <!-- https://www.youtube.com/watch?v=u8EOVOjX13Y -->
 
 [{{< fa brands linkedin size=2x >}}LinkedIn](https://de.linkedin.com/in/ulrike-niemann-61007540)  
-[{{< fa brands github size=2x >}}GitHub](https://de.linkedin.com/in/ulrike-niemann-61007540)  
+[{{< fa brands github size=2x >}}GitHub](http://github.com/ulrikeniemann)  
 [{{< fa envelope size=2x >}}E-Mail](mailto:ulrike.niemann@e-market-research.de)
 
 ## Beispiel Repos
