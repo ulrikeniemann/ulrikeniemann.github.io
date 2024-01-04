@@ -1,6 +1,5 @@
 ---
 title: "Ulrike Niemann"
-subtitle: "Test Quarto + github.io"
 author: "[Ulrike Niemann](mailto:ulrike.niemann@e-market-research.de)"
 date: last-modified
 format: 
@@ -23,7 +22,7 @@ lang: de
 [{{< fa brands github size=2x >}}GitHub](https://de.linkedin.com/in/ulrike-niemann-61007540)  
 [{{< fa envelope size=2x >}}E-Mail](mailto:ulrike.niemann@e-market-research.de)
 
-## Example Repos
+## Beispiel Repos
 
 [r_mini_example](https://ulrikeniemann.github.io/r_mini_example/)
 
