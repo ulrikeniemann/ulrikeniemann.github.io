@@ -1,0 +1,38 @@
+---
+title: "Ulrike Niemann"
+subtitle: "Test Quarto + github.io"
+author: "[Ulrike Niemann](mailto:ulrike.niemann@e-market-research.de)"
+date: last-modified
+format: 
+  html:
+    theme: darkly
+    include-in-header: header.html
+    css: styles.css
+    link-external-icon: false
+    link-external-newwindow: true
+    anchor-sections: false
+lang: de
+---
+
+## Kontakt
+
+<!-- Terminal cd Projektordner: quarto install extension quarto-ext/fontawesome -->
+<!-- https://www.youtube.com/watch?v=u8EOVOjX13Y -->
+
+[{{< fa brands linkedin size=2x >}}LinkedIn](https://de.linkedin.com/in/ulrike-niemann-61007540)  
+[{{< fa brands github size=2x >}}GitHub](https://de.linkedin.com/in/ulrike-niemann-61007540)  
+[{{< fa envelope size=2x >}}E-Mail](mailto:ulrike.niemann@e-market-research.de)
+
+## Example Repos
+
+[r_mini_example](https://ulrikeniemann.github.io/r_mini_example/)
+
+[r_flexdashboard_example](https://ulrikeniemann.github.io/r_flexdashboard_example/)
+
+[r_quarto_tabs_example](https://ulrikeniemann.github.io/r_quarto_tabs_example/)
+
+[ESUexplorer](https://ulrikeniemann.shinyapps.io/esuexplorer/)
+
+## ...work in progress ...
+
+
